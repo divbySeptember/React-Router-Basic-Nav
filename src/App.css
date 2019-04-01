@@ -4,8 +4,22 @@
 
 .Nav-link {
   padding: 2rem;
+  color: rgb(120, 120, 120);
 }
 
 .nav-item {
   margin-top: 1rem;
+}
+
+h1{
+  text-align: center;
+  
+}
+
+
+
+a{
+  font-size: 1.5rem;
+  color: rgb(120, 120, 120);
+  text-decoration: none;
 }
