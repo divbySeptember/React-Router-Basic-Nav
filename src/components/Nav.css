@@ -1,0 +1,17 @@
+.App {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 0;
+    border-bottom: 1px solid black;
+}
+
+a{
+    font-size: 1.5rem;
+    color: rgb(120, 120, 120);
+    text-decoration: none;
+}
+
+Link{
+    color: rgb(120, 120, 120);  
+}
